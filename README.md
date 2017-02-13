@@ -10,6 +10,7 @@ The network has two layers, a hidden and an output layer. For the hidden layer, 
   - matplotlib
   - numpy
   - pandas
+  
 For convenience, I include "environment.yaml" and "environment.txt" for installation using conda or pip
 
 #Usage
