@@ -14,6 +14,6 @@ The network has two layers, a hidden and an output layer. For the hidden layer, 
 For convenience, I include "environment.yaml" and "environment.txt" for installation using conda or pip
 
 #Usage
-Type `jupyter notebook dlnd-your-first-neural-network.ipynb` to the terminal.
+Type `jupyter notebook Neural-Network.ipynb` to the terminal.
 
  
